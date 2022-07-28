@@ -2,6 +2,8 @@ package main
 
 import (
 	"log"
+
+	"github.com/danshaub/ta-data-migration/csvfile"
 )
 
 func main() {
